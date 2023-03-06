@@ -44,7 +44,7 @@
     "AutoMap Open On Load": 0,
     "Chat Font Size": 1,
     "Combat Feedback": 0,
-    "Camera Shake": 1,
+    "Camera Shake": 0,
     "Low Vision Mode": 0,
     "Color Blind Mode": 0,
     "Color Blind Strength": 100,
@@ -106,7 +106,7 @@
     "Lobby Wide Item Drop Enabled": 1,
     "Aux Battle.net": "216.148.246.38",
     "First Time": 1,
-    "User Last Online": 1678003702157243100,
+    "User Last Online": 1678047327299952400,
     "Tutorial": 3,
     "Help Menu": 1,
     "Always Run": 1
